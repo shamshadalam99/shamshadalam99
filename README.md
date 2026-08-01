@@ -1,43 +1,63 @@
-# Hi, I'm Shamshad Alam 👋
+<p align="center">
+  <img src="assets/alam-banner.png" alt="ALAM Banner" width="100%">
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="assets/alam-favicon.png" width="120" alt="ALAM Logo">
+</p>
 
-# ALAM
+<h1 align="center">
+  Hi, I'm Shamshad Alam 👋
+</h1>
 
-### Develop • Integrate • Empower
+<h3 align="center">
+  Develop • Integrate • Empower
+</h3>
 
-**Digital • ERP • AI Solutions**
+<p align="center">
+  <strong>Digital • ERP • AI Solutions</strong>
+</p>
 
-</div>
+<p align="center">
+  Building practical software solutions for eCommerce, ERP, automation and AI.
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a passionate Full-Stack Developer specializing in **Magento 2**, **ERPNext**, **PHP**, and modern web technologies.
+I'm a Full-Stack Developer focused on building practical, scalable and
+business-oriented software solutions.
 
-I enjoy building scalable e-commerce solutions, ERP integrations, automation tools, and AI-powered business applications that help businesses grow digitally.
+My core experience includes **Magento 2, ERPNext, PHP, APIs, eCommerce,
+business automation and modern web technologies**.
 
----
-
-## 🚀 Expertise
-
-- Magento 2 Module Development
-- ERPNext Development & Integration
-- REST API Development
-- Payment Gateway Integration
-- E-Commerce Solutions
-- Business Process Automation
-- AI-Powered Digital Solutions
-- Custom Web Applications
+I enjoy turning real business requirements into reliable digital systems —
+from eCommerce platforms and ERP integrations to custom modules,
+automation tools and AI-powered applications.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 What I Build
+
+- 🛒 Magento 2 Extensions & Customizations
+- 🔗 ERPNext Integrations & Custom Development
+- 🔌 REST API & Third-Party Integrations
+- 💳 Payment Gateway Integrations
+- ⚙️ Business Process Automation
+- 🤖 AI-Powered Business Solutions
+- 🌐 Custom Web Applications
+- 📦 eCommerce Solutions
+
+---
+
+## 🧠 Core Expertise
 
 ### Backend
 
 - PHP
+- Magento 2
+- ERPNext / Frappe
 - Node.js
 - MySQL
 - REST APIs
@@ -50,29 +70,78 @@ I enjoy building scalable e-commerce solutions, ERP integrations, automation too
 - HTML5
 - CSS3
 
-### Platforms
+### Tools & Platforms
 
-- Magento 2
-- ERPNext
+- Git & GitHub
 - Linux
-- Git
+- Magento
+- ERPNext
+- WordPress
+- Cloud Hosting
 
 ---
 
-## 🌱 Currently Working On
+## 🔧 What I'm Working On
 
-- 🚀 Digital Transformation Solutions
-- 📦 Magento 2 Extensions
+### ALAM — Digital • ERP • AI Solutions
+
+I'm building **ALAM** as my personal technology brand focused on creating
+useful software, developer tools, integrations and digital solutions.
+
+Current areas of development:
+
+- 🚀 Magento 2 Extensions
 - 🔗 ERPNext Integrations
-- 🤖 AI-Powered Business Automation
+- ⚙️ Business Automation
+- 🤖 AI-Powered Applications
+- 🧩 Developer Tools
+- 🌐 Custom Digital Solutions
+
+---
+
+## 📂 Featured Projects
+
+### 🚀 Coming Soon
+
+Some projects I'm working toward:
+
+- **ALAM Magento 2 Module Boilerplate**
+- **ALAM ERP Connector**
+- **Magento 2 REST API Examples**
+- **ERPNext PHP SDK**
+- **AI Product Description Generator**
+- **Business Automation Tools**
+
+More projects will be published here as they are ready.
+
+---
+
+## 🌱 My Development Philosophy
+
+> Build useful things.  
+> Solve real problems.  
+> Integrate systems.  
+> Automate repetitive work.  
+> Keep learning.
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/shamshadalam99
-- LinkedIn: https://www.linkedin.com/in/shamshadalam99/
+🌐 **Website:** Coming Soon
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/shamshadalam99/
+
+💻 **GitHub:**  
+https://github.com/shamshadalam99
 
 ---
 
-⭐ Building the future through **Digital • ERP • AI Solutions**
+<p align="center">
+  <strong>Develop • Integrate • Empower</strong>
+</p>
+
+<p align="center">
+  Digital • ERP • AI Solutions
+</p>
